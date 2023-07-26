@@ -31,7 +31,10 @@ If either of the measured distances is less than the defined DISTANCE_THRESHOLD 
 - MOTOR2_PIN: Arduino pin connected to motor 2
 - MOTOR2_PIN1: First pin of motor 2
 - MOTOR2_PIN2: Second pin of motor 2
-
+  
+## Compiling
+The program is in embeded c and run thin program in the app Arduino IDE and use Arduino UNO board to run the program.
+The application is freely available on windows,MacOS,Linux from the mentioned website: https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE
 ## Installation
 
 1. Connect the hardware components according to the pin configuration mentioned above.
@@ -40,5 +43,5 @@ If either of the measured distances is less than the defined DISTANCE_THRESHOLD 
 
 ## Contact
 
-mail me:prajju.18gryphon@gmail.com
+mail me: prajju.18gryphon@gmail.com
 
