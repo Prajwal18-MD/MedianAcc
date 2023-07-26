@@ -38,11 +38,7 @@ If either of the measured distances is less than the defined DISTANCE_THRESHOLD 
 2. Upload the Arduino sketch to your Arduino board using the Arduino IDE or your preferred method.
 3. Power on the Arduino board.
 
-
-
-If you wish to contribute to the project, follow the guidelines mentioned in [CONTRIBUTING.md](CONTRIBUTING.md) (Add a contributing guidelines file if applicable).
-
 ## Contact
 
-Provide your contact information or a way for users to reach out to you if they have questions or feedback about the project.
+mail me:prajju.18gryphon@gmail.com
 
